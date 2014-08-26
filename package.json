@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "download": "./bin/download.js http://www.regardscitoyens.org/telechargement/donnees/declarations-dinterets/declarations-dinterets-parlementaires_1.0.zip"
   },
   "author": "",
   "license": "MIT",
@@ -15,6 +16,7 @@
     "gasket": "~1.2.3",
     "jsonfilter": "~1.0.2",
     "jsonmap": "~1.1.2",
-    "ldjson-stream": "~1.2.1"
+    "ldjson-stream": "~1.2.1",
+    "unzip": "~0.1.9"
   }
 }
