@@ -1,0 +1,20 @@
+{
+  "name": "assembly2gexf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "concat-stream": "~1.4.6",
+    "csv-parser": "~1.4.6",
+    "event-stream": "~3.1.7",
+    "gasket": "~1.2.3",
+    "jsonfilter": "~1.0.2",
+    "jsonmap": "~1.1.2",
+    "ldjson-stream": "~1.2.1"
+  }
+}
